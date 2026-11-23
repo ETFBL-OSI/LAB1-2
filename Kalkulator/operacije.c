@@ -22,5 +22,8 @@ double pomnozi(double a, double b)
 
 double podijeli(double a, double b)
 {
-    return a/b;
+
+    double kolicnik = a/b;
+    return kolicnik;
+
 }
